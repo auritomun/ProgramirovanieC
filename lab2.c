@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int lab2(){
+int main(){
     //Задача 1
     double matrx[4][4];
     printf("Введите 9 значений матрицы 3x3\n\n");
