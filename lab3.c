@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int lab3(){
+int main(){
     char str[80];
     printf("Введите строку символов:\n");
     scanf("%s", str);
