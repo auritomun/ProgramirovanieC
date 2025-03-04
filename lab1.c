@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-int lab1(int argc, const char * argv[]) {
+int main(int argc, const char * argv[]) {
     double a,b,c;
     double x1,x2,d;
     printf("Введите a,b,c: ");
